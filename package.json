@@ -11,6 +11,6 @@
     ],
     "dependencies": {
        "node-expat": "~2.3"
-    },
+    }
 }
 
