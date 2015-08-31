@@ -1,5 +1,5 @@
 {   "name" : "xmls2json",
-    "version": "0.3.2",
+    "version": "0.3.4",
     "author": "Ziggy Jonsson",
     "email": "ziggy.jonsson.nyc@gmail.com",
     "description" : "Converts xml stream to json using node-expat and xml2json",
@@ -10,7 +10,7 @@
         {"name": "Ziggy Jonsson", "email": "ziggy.jonsson.nyc@gmail.com"}
     ],
     "dependencies": {
-       "node-expat": "2.0.0"
+       "node-expat": "~2.3"
     },
 }
 
